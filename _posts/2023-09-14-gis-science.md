@@ -18,4 +18,4 @@ Here is an image: ![github logo](/assets/images/GitHub-Mark.png)
 | centered | not centered |
 |more content to show centering | not so much|
 
-Link to [another post](/blog/post-standard)
+Link to [another post](/blog/post-standard/)
