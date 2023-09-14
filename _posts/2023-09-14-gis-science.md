@@ -9,4 +9,4 @@ tags:
 ---
 
 ## Is GIS a Science?
-I think that I've studied GIS as a tool thus far, and I'm not sure it should count as a science. 
+I have mostly studied GIS as a tool thus far, and I'm not sure it should count as a science. 
