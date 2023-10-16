@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Audrey's GEOG0361 Page
+title: Audrey's Open Source Page
 email: arpark@middlebury.edu
 description: >- # this means to ignore newlines until "baseurl:"
   My portfolio of GIScience and Cartography work
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: audreyrpark
+minimal_mistakes_skin: "dirt"
 search: true
 
 # Build settings
@@ -56,22 +55,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Audrey Park"
+  avatar : "/assets/images/profilephoto.jpg"
+  bio    : "Middlebury '25 Geography major"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/audreyrpark/"
 
 footer:
   links:
