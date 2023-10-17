@@ -8,8 +8,6 @@ tags:
   - Uncertainty
 ---
 
-## Provenance, Error, and Uncertainty
-
 Longley et. al's chapter on uncertainty shows the many filters through which reality passes when researchers attempt to distill questions, observations, and findings into a published study. This compounding distortion is represented well in Figure 6.1––as a study passes through each stage, it passes through subjective decisions that ultimately take it further from reality. This illustrates well the importance of reproduction studies. It is impossible to completely eliminate subjectivity in geographic studies; carrying out a study multiple times from a diversity of approaches is the next-best way to generate representative research and ensure a degree of accuracy.
 
 As a student studying Geography and Global Health, I have been made aware of many areas of uncertainty and strategies to minimize it. I very recently joined a research team working with data about households in parts of Africa using data compiled by the Wildlife Conservation Society. Working with information from an outside source limits the scope of our research from the outset, and forces the team to work around its flaws. The step between a larger organization and the smaller team using its data creates areas of uncertainty as to which data is most accurate and narrows the approaches we can take, similar to the graphic shown in Longley et al's chapter. 
