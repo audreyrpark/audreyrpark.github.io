@@ -57,6 +57,7 @@ plugins:
 author:
   name   : "Audrey Park"
   avatar : "/assets/images/profilephoto.jpg"
+  round-avatar: false
   bio    : "Middlebury '25 Geography major"
   links:
     - label: "Website"
