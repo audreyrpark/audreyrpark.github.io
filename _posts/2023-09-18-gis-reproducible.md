@@ -6,6 +6,7 @@ categories:
 tags:
   - GIS
   - Science
+  - Reproduction
 ---
 
 ## Reproducible and Open GIScience

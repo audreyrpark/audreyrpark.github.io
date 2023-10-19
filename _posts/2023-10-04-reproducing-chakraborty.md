@@ -4,8 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - GIS
-  - Science
+  - Reproduction
+  - Validity
+  - Uncertainty
 ---
 
 ## Reproducing the Chakraborty COVID-19 Disability Study
