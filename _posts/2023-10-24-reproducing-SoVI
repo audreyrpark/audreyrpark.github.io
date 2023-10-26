@@ -1,0 +1,15 @@
+---
+title: "Reproducing Vulnerability Models"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Vulnerability
+  - Reproduction
+  - Validity
+  - Replication
+---
+
+## Reproducing a Social Vulnerability Model
+
+There is great value in reproducing multi-criteria models, such as a social vulnerability index, in geographical studies. In Malcomb et al's study of Malawi, their goal is to create a model that can be applied to other areas in sub-Saharan Africa and predict vulnerability to climate change. Inevitably, the creation of this model involves many subjective decisions; which data sources to use, how to structure interviews, how to weight and normalize quantitative and qualitative data types, how to structure the final equation. c
