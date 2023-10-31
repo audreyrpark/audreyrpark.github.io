@@ -55,10 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Audrey Park"
-  avatar : "/assets/images/profilephoto.jpg"
-    radius: 0%
-  bio    : "Middlebury '25 Geography major"
+  name: "Audrey Park"
+  avatar: "/assets/images/profilephoto.jpg"
+  bio: "Middlebury '25 Geography major"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
