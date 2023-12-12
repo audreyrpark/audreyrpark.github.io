@@ -16,4 +16,4 @@ Taking the steps to carry out a reproduction study demonstrated the importance o
 
 In terms of research design, I am curious about how the authors defined PwDs, especially because they wrote that 25% of adult Americans report some sort of disability. This rate seemed high, and made me wonder how the term "disability" may encompass a wide variety of experiences. An improved study might hone in more on specific types of disabilities in order to have a more uniform study group and minimize the possibility of inaccurate correlations. I think the study could also be improved by using more up to date data.
 
-Find my report [here](https://audreyrpark.github.io/RPr-Chakraborty-2021/) and my research compendium [here](https://github.com/audreyrpark/RPr-Chakraborty-2021/tree/main/docs).
+Find my report [here](https://audreyrpark.github.io/RPr-Chakraborty-2021/) and my research compendium [here](https://github.com/audreyrpark/RPr-Chakraborty-2021).
