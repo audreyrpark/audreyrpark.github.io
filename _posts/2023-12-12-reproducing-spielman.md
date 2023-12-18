@@ -1,1 +1,1 @@
-Find my report [here]() and my research compendium [here](https://github.com/audreyrpark/RPl-Spielman-2020).
+Find my report [here](https://audreyrpark.github.io/RPl-Spielman-2020/) and my research compendium [here](https://github.com/audreyrpark/RPl-Spielman-2020).
